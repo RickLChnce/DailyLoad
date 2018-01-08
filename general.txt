@@ -1,0 +1,15 @@
+Daily Load Tracker
+
+This is a program created to track my daily work activities while I delivered car parts for an
+automotive supplier.  While probably not the most visually appealing, it is fully
+functional.  Also, it filled a need of mine to track my work to ensure I was properlly paid.
+
+A date is required to enter a new load.  Also, new drivers, tractors, trailers, and locations
+must be added to the database before they can be used in a load.  This is handled through the 
+actions menu item.  
+
+A load can be picked up or delivered to either a customer or a company location.  That is why 
+they exist in the same drop down menu but have seperate tables in the database.  
+
+Thanks for taking a look!
+R-
